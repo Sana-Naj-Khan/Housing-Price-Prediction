@@ -1,5 +1,5 @@
 # Housing-Price-Prediction
-This porject is developed to predict the sales price for each house. For each Id in the test set, we must predict the value of the SalePrice variable.
+This project is developed to predict the sales price for each house. For each Id in the test set, we must predict the value of the SalePrice variable.
 
 Metric Submissions are evaluated on Mean-Squared-Error (MSE). Submission File Format The file should contain a header and have the following format:
 
